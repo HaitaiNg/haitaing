@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on FreeCodeCamp & Leetcode
-- 🌱 I’m currently learning front end technologies 
+- 🔭 I’m currently working on FreeCodeCamp, LeetCode, & Udemy
+- 🌱 I’m currently learning new programming languages 
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with improving my software engineering skills 
 - 💬 Ask me about anything
