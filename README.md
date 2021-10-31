@@ -1,10 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on FreeCodeCamp, LeetCode, & Udemy
-- 🌱 I’m currently learning new programming languages and frameworks
-- 🤔 I’m looking for help with improving my software engineering skills 
-- 💬 Ask me about anything
 - 📫 How to reach me: hkng248@gmail.com
-- 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I like endurance events
 
 <!--
