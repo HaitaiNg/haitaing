@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: hkng248@gmail.com
+- Contact: hkng248@gmail.com
 
 <!--
 **HaitaiNg/haitaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
